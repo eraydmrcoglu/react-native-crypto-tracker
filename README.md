@@ -9,9 +9,9 @@
 
 
 <div style="display: inline_block" align="center"><br>
-  <img width="200px" height="400px"" style="object-fit: contain" src="" alt="homescreen" />
-  <img width="200px" height="400px" style="object-fit: contain" src="" alt="portfolioscreen"/>
-  <img width="200px" height="400px" style="object-fit: contain" src="" alt="wishlistscreen"/>
+  <img width="200px" height="400px"" style="object-fit: contain" src="https://github.com/eraydmrcoglu/React-Native-Crypto-Tracker/assets/75967993/8ec26b13-bb7c-4121-8edf-ff60172bc7a8" alt="homescreen"/>
+  <img width="200px" height="400px" style="object-fit: contain" src="https://github.com/eraydmrcoglu/React-Native-Crypto-Tracker/assets/75967993/02921a94-db89-4153-8c8a-8ad6852787a9" alt="portfolioscreen"/>
+  <img width="200px" height="400px" style="object-fit: contain" src="https://github.com/eraydmrcoglu/React-Native-Crypto-Tracker/assets/75967993/4900b65a-141b-41c5-be84-fc2aed998fdf" alt="watchlistscreen"/>
 </div>
 
 <div align="center">
